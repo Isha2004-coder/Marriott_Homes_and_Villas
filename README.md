@@ -87,3 +87,20 @@ Finally, you'll append each created card to the "recommendations" div to populat
 This function should find an object in `PLACES` where the object's `name` property matches the argument passed to the `placeName` parameter. It's used to pin our place on the interactive map and fly to it when clicked from the dropdown menu or the "Recommended for You" section.
 
 To do this, you'll loop through the array of `PLACES` and look for a place object where the `name` property is the same as `placeName`. The function should return that place object.
+
+
+To run this project using CodeSandbox:
+
+Open CodeSandbox
+Go to https://codesandbox.io/.
+Import from GitHub
+Click the "Create Sandbox" button (or + New Sandbox).
+Select "Import Project" and choose "GitHub Repository".
+Paste this repository’s URL:
+https://github.com/Isha2004-coder/Marriott_Homes_and_Villas
+Wait for the Project to Load
+CodeSandbox will automatically install any necessary files and open your project.
+Run the App
+Open index.html and click "Open in New Window" or use the Live Preview on the right.
+Interact with the popup and personalized destination feature.
+Cards, dropdown menu, and map will update based on your selection.
