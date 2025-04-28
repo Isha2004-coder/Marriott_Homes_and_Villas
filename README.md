@@ -93,14 +93,24 @@ To run this project using CodeSandbox:
 
 Open CodeSandbox
 Go to https://codesandbox.io/.
+
 Import from GitHub
+
 Click the "Create Sandbox" button (or + New Sandbox).
+
 Select "Import Project" and choose "GitHub Repository".
+
 Paste this repository’s URL:
 https://github.com/Isha2004-coder/Marriott_Homes_and_Villas
+
 Wait for the Project to Load
+
 CodeSandbox will automatically install any necessary files and open your project.
+
 Run the App
+
 Open index.html and click "Open in New Window" or use the Live Preview on the right.
+
 Interact with the popup and personalized destination feature.
+
 Cards, dropdown menu, and map will update based on your selection.
