@@ -93,23 +93,23 @@ To do this, you'll loop through the array of `PLACES` and look for a place objec
 To run this project using CodeSandbox:
 
 1. Open CodeSandbox
-Go to https://codesandbox.io/.
+  Go to https://codesandbox.io/.
 
 2. Import from GitHub
-Click the "Create Sandbox" button (or + New Sandbox).
+  Click the "Create Sandbox" button (or + New Sandbox).
 
-Select "Import Project" and choose "GitHub Repository".
+  Select "Import Project" and choose "GitHub Repository".
 
-Paste this repository’s URL:
-https://github.com/Isha2004-coder/Marriott_Homes_and_Villas
+  Paste this repository’s URL:
+  https://github.com/Isha2004-coder/Marriott_Homes_and_Villas
 
 3. Wait for the Project to Load
-CodeSandbox will automatically install any necessary files and open your project.
+  CodeSandbox will automatically install any necessary files and open your project.
 
 4. Run the App
-Open index.html and click "Open in New Window" or use the Live Preview on the right.
+  Open index.html and click "Open in New Window" or use the Live Preview on the right.
 
-Interact with the popup and personalized destination feature.
+  Interact with the popup and personalized destination feature.
 
 Cards, dropdown menu, and map will update based on your selection.
 
